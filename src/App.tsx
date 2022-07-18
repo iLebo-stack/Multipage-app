@@ -12,7 +12,7 @@ function App() {
       <Tabs />
 
       <Routes>
-        <Route path='/multipage-app/' element={<HomePage />} />
+        <Route path='/multipage-app/multipage-app' element={<HomePage />} />
         <Route path='/users' element={<Users />} >
           <Route index element={<h2 className="subtitle">Select a user</h2>} />
           <Route path=':userId' element={<User />} />
