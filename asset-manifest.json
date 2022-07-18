@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/multipage-app/static/css/main.1750fee5.css",
-    "main.js": "/multipage-app/static/js/main.b66bdecd.js",
+    "main.js": "/multipage-app/static/js/main.79b95bc5.js",
     "index.html": "/multipage-app/index.html",
     "main.1750fee5.css.map": "/multipage-app/static/css/main.1750fee5.css.map",
-    "main.b66bdecd.js.map": "/multipage-app/static/js/main.b66bdecd.js.map"
+    "main.79b95bc5.js.map": "/multipage-app/static/js/main.79b95bc5.js.map"
   },
   "entrypoints": [
     "static/css/main.1750fee5.css",
-    "static/js/main.b66bdecd.js"
+    "static/js/main.79b95bc5.js"
   ]
 }
