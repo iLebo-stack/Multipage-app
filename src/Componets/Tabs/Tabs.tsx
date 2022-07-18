@@ -6,7 +6,7 @@ export const Tabs = () => (
     <ul>
       <li>
         <NavLink
-          to="/"
+          to="/multipage-app"
           style={({ isActive }) => (
               isActive ? { borderBottom: '1px solid #f00' } : {}
             )}
