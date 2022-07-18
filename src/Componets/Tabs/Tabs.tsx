@@ -6,7 +6,7 @@ export const Tabs = () => (
     <ul>
       <li>
         <NavLink
-          to="/"
+          to="/https://iLebo-stack.github.io/multipage-app"
           style={({ isActive }) => (
               isActive ? { borderBottom: '1px solid #f00' } : {}
             )}
